@@ -13,11 +13,15 @@ jobs:
     timeout-minutes: 5
 
     steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0  # 必须添加这个才能提交代码
       - name: Generate Snake SVG
         uses: Platane/snk@v3
         with:
           github_user_name: anjiqing  # 修正为您的用户名
-          outputs: github-contribution-grid-snake.svg  # 直接输出到根目录
+          outputs: github-contribution-grid-snake.svg # 正确输出路径
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 

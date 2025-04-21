@@ -15,10 +15,10 @@ If you're interested in me or want to have a chat, you can reach me through the 
 ⚡ A fun fact: I'm head over heels for **Artificial Intelligence**. It's not just my job but also my hobby!
 
 ### My GitHub Stats
-![github contribution grid snake animation](github-contribution-grid-snake.svg)
+![Contribution Snake](github-contribution-grid-snake.svg)
 
 ### GitHub Metrics
-![Metrics](https://raw.githubusercontent.com/anjiqing/anjiqing/main/github-metrics.svg)
+![Metrics](github-metrics.svg)  <!-- 改为本地路径 -->
 
 ### Coding Activity
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anjiqing&show_icons=true&theme=radical)
