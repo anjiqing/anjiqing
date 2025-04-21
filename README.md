@@ -15,6 +15,9 @@ If you're interested in me or want to have a chat, you can reach me through the 
 ⚡ A fun fact: I'm head over heels for **Artificial Intelligence**. It's not just my job but also my hobby!
 
 ### My GitHub Stats
+
+![Contribution Snake](snake.svg)
+
 ![Contribution Snake](github-contribution-grid-snake.svg)
 
 ### GitHub Metrics
