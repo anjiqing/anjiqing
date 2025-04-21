@@ -16,10 +16,11 @@ If you're interested in me or want to have a chat, you can reach me through the 
 
 ### My GitHub Stats
 ![github contribution grid snake animation](github-contribution-grid-snake.svg)
-+ 
-+ ### GitHub Metrics
-+ ![Metrics](https://raw.githubusercontent.com/anjiqing/anjiqing/main/github-metrics.svg)
-+
+
+### GitHub Metrics
+![Metrics](https://raw.githubusercontent.com/anjiqing/anjiqing/main/github-metrics.svg)
+
+### Coding Activity
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anjiqing&show_icons=true&theme=radical)
 
 ### Learning and Sharing
